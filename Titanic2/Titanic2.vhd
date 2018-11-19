@@ -1,0 +1,15 @@
+--library ieee;
+--use ieee.std_logic_1164.all;
+--
+--ENTITY Titanic2 IS
+--	PORT(
+--		CLK : IN STD_LOGIC
+--	);
+--	
+--
+--ARCHITECTURE BEHAVIOUR OF Titanic2 IS
+--BEGIN
+--	
+--
+--
+--END BEHAVIOUR;
